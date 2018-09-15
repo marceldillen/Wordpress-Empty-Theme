@@ -1,0 +1,13 @@
+{
+  "name": "marceldillen/wordpress-empty-theme",
+  "description": "Theme that outputs and adds nothing",
+  "type": "wordpress-plugin",
+  "license": "MIT",
+  "authors": [
+      {
+          "name": "Marcel Dillen",
+          "email": "marceldillen@me.com"
+      }
+  ],
+  "minimum-stability": "stable",
+  "require": {}
