@@ -2,7 +2,7 @@
   "name": "marceldillen/wordpress-empty-theme",
   "description": "Theme that outputs and adds nothing",
   "version": "1.0.0",
-  "type": "wordpress-plugin",
+  "type": "wordpress-theme",
   "license": "MIT",
   "authors": [
       {
